@@ -1,0 +1,6 @@
+export const products = [
+    {id: 1, img: "https://c.dns-shop.ru/thumb/st4/fit/320/250/c02decd72d3e104632b55ab8498feec9/90fd68246cc931b73c97ffe2b2dab7020344f84f474b627d961d13e6267e413a.jpg", title: "Умная колонка Яндекс.Станция Миди", price: 12000.00, qty: 1, inCart: false},
+    {id: 2, img: "https://c.dns-shop.ru/thumb/st1/fit/320/250/a79b25276eb94d3aeb2fafdaceeab519/360df2df1f130aa0094b32ba2c617e55222547e7d544171cc73d69b7f6b42626.jpg", title: "Умная колонка Яндекс.Станция Макс", price: 35000.00, qty: 1, inCart: false},
+    {id: 3, img: "https://c.dns-shop.ru/thumb/st1/fit/320/250/88b5ac6d93387248118fb8590bdd626f/51d83ec2b4a8738b02f15ecd993c8b682cbb98aa767ea49971bd1ae1a3d09040.jpg", title: "Умная колонка Новая Яндекс.Станция Мини", price: 6000.00, qty: 1, inCart: false},
+    {id: 4, img: "https://c.dns-shop.ru/thumb/st4/fit/320/250/f211b33a57484242f7f928a52972a9a7/ab91ba63352403f8e8e5b0b09fbb2a84d06e8eda77a66a8dce6f3655213fda84.jpg", title: "Умная колонка Яндекс.Станция Дуо Макс", price: 25000.00, qty: 1, inCart: false}
+];
